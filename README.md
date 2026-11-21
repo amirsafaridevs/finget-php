@@ -1,10 +1,12 @@
 # Finget PHP SDK
 
-کلاینت رسمی [فینگت](https://finget.ir) برای PHP: ورود بدون رمز و ارسال اعلان به کاربران وصل‌شده.
+کلاینت رسمی **[فینگت](https://finget.ir)** برای PHP: ورود بدون رمز و ارسال اعلان به کاربران وصل‌شده.
 
-- نیازمندی: **PHP 8.1+** با `ext-curl` و `ext-json`
+- وب‌سایت: [finget.ir](https://finget.ir)
+- افزونه‌ها و SDKها: [finget.ir/plugins](https://finget.ir/plugins)
 - مستندات API: [finget.ir/provider/panel/docs](https://finget.ir/provider/panel/docs)
-- دانلود ZIP: [finget.ir/plugins](https://finget.ir/plugins)
+- Packagist: [packagist.org/packages/finget/sdk](https://packagist.org/packages/finget/sdk)
+- نیازمندی: **PHP 8.1+** با `ext-curl` و `ext-json`
 
 ## نصب
 

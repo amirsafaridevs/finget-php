@@ -4,16 +4,18 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["finget", "login", "otp", "passwordless", "notifications", "iran"],
-    "homepage": "https://finget.ir/plugins",
+    "homepage": "https://finget.ir",
     "support": {
         "docs": "https://finget.ir/provider/panel/docs",
         "issues": "https://github.com/amirsafaridevs/finget-php/issues",
-        "source": "https://github.com/amirsafaridevs/finget-php"
+        "source": "https://github.com/amirsafaridevs/finget-php",
+        "chat": "https://finget.ir/contact"
     },
     "authors": [
         {
             "name": "Finget",
-            "homepage": "https://finget.ir"
+            "homepage": "https://finget.ir",
+            "role": "Developer"
         }
     ],
     "require": {
